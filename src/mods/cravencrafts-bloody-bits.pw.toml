@@ -1,0 +1,13 @@
+name = "CravenCraft's Bloody Bits"
+filename = "bloodybits-1.3.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4xxMfxFO/versions/ypg9FsKc/bloodybits-1.3.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "15f0d2d624b45689358a63ef7151cba9b00418060a8ffc93bdf76b2c8db54b36ee3e3172e066bb40a9466856dd1c07b38a2f976d94522e936b251a5123665cdc"
+
+[update]
+[update.modrinth]
+mod-id = "4xxMfxFO"
+version = "ypg9FsKc"

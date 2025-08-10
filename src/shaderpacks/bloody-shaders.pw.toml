@@ -1,0 +1,13 @@
+name = "Bloody Shaders"
+filename = "BloodyShader1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hibU7u6J/versions/w8RuUK88/BloodyShader1.2.zip"
+hash-format = "sha512"
+hash = "d6ff9cece00abdb52dc7e34b3cbf04534a9f39307eb51a982039f030f03aabb93b0eafebb829e679981269bc9ebac8239e4f1df85da566295e0ce642821c5932"
+
+[update]
+[update.modrinth]
+mod-id = "hibU7u6J"
+version = "w8RuUK88"

@@ -1,0 +1,14 @@
+hover.forge_titlescreen_mods_button = Check out the mods!
+hover.mc_titlescreen_multiplayer_button = Survive together... or die trying!
+hover.mc_titlescreen_options_button = Tweak your experience...
+hover.mc_titlescreen_quit_button = Leaving so soon? :(
+hover.mc_titlescreen_singleplayer_button = Brave the horrors alone!
+tnc_changelog_button = Changelog
+tnc_credits_button = Credits
+tnc_debug_info_button = Copy debug info
+tnc_loading_text = Loading...
+tnc_open_world_button = Open World
+tnc_update_notification = A new version is lurking...
+tooltip.tnc_debug_info_button = Copy debug info to clipboard.
+tooltip.tnc_discord_button = Join the Discord server!
+tooltip.tnc_github_button = Explore the modpack on GitHub!

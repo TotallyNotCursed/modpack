@@ -1,0 +1,13 @@
+name = "Blur Forge (Unofficial)"
+filename = "blur-forge-3.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o4Wx4DUB/versions/NOiJG3oF/blur-forge-3.1.1.jar"
+hash-format = "sha512"
+hash = "9d35f532c40ca55eb054188e6293b6f57eecdb748da9bdbf68a0c2567101c09d62ac66f652602f0567247fe0fc6f5fc4d95fdc6c034ee22544d4ff2d3ae723c3"
+
+[update]
+[update.modrinth]
+mod-id = "o4Wx4DUB"
+version = "NOiJG3oF"

@@ -1,0 +1,13 @@
+name = "The Starved Stalker"
+filename = "thestarvedstalker_1-20-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8946f0779843840805c5da5e6f6b949ab710cb4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4898700
+project-id = 934103

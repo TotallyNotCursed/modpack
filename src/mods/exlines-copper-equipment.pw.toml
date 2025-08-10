@@ -1,0 +1,13 @@
+name = "Exline's Copper Equipment"
+filename = "exlinecopperequipment-forge-1.20.1-v2.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W921hp7s/versions/ALAAt9ca/exlinecopperequipment-forge-1.20.1-v2.0.8.jar"
+hash-format = "sha512"
+hash = "d7e180736d1ed969bf0865c49cf4a0cbe6068fb2aec97e5f34b2ae116af6dbba055b61d73b30f9ad6e970ec63cd48e71c81a35c3cde6ae6b340b222b109b15dc"
+
+[update]
+[update.modrinth]
+mod-id = "W921hp7s"
+version = "ALAAt9ca"

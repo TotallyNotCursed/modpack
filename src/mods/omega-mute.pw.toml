@@ -1,0 +1,13 @@
+name = "Omega Mute"
+filename = "omegamute-1.20.1-4.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2ots5RF5/versions/gjqAK7Jm/omegamute-1.20.1-4.3.jar"
+hash-format = "sha512"
+hash = "2a818d207fcf1d182986b702467f01d8aaa91c924058b0cdad63328ffa8c4fc4f15bf58ad52a76c08dc44c5146b6ff41ff773ff4ab7c9656f4be4f39c7382ee8"
+
+[update]
+[update.modrinth]
+mod-id = "2ots5RF5"
+version = "gjqAK7Jm"

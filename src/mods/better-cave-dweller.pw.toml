@@ -1,0 +1,13 @@
+name = "Better Cave Dweller"
+filename = "Better Cave Dweller-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e533d50da7602e03dd8979f0ced4b9dca2cb6601"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5010855
+project-id = 922411

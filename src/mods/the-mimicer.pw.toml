@@ -1,0 +1,13 @@
+name = "The Mimicer"
+filename = "themimic_er-1.20.1-1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c85c86986a977c65f6d23f5c138c4f1b8845116"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6615179
+project-id = 970277

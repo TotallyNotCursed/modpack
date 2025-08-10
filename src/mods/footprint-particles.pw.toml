@@ -1,0 +1,13 @@
+name = "Footprint Particles"
+filename = "footprint-particles-3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iXruOT6m/versions/nmPsHkst/footprint-particles-3.jar"
+hash-format = "sha512"
+hash = "e39a4c1652fd510dad9733ff3cef3c8a0b062934ceea1dc60a1888ec8c743008a6b763c9481da1b52f8efb28510a9b92665e73721b7a98a4d16ea4c16b7f984c"
+
+[update]
+[update.modrinth]
+mod-id = "iXruOT6m"
+version = "nmPsHkst"

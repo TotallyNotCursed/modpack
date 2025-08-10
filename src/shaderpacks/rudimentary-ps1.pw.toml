@@ -1,0 +1,13 @@
+name = "Rudimentary"
+filename = "Rudimentary-v9.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uEj359Zz/versions/7SersxNf/Rudimentary-v9.0.zip"
+hash-format = "sha512"
+hash = "e46892fe079102a5677b412d503c6216e9d32eed48102cf9084297aa662c888b6592d48eb62d91135c4896658a6c3a256db41d09c60cb021eec40b66ec86f5b5"
+
+[update]
+[update.modrinth]
+mod-id = "uEj359Zz"
+version = "7SersxNf"

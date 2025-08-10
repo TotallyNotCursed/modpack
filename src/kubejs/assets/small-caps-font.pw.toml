@@ -1,0 +1,13 @@
+name = "Small Caps Font"
+filename = "SmallCapsFont_v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MEDOXZFt/versions/MF25sUkH/SmallCapsFont_v1.1.zip"
+hash-format = "sha512"
+hash = "b3490606aeb5e06bf4b784f26ebbbc2c855b74b58af836e1297b99c70691ca26e6f43d2a45d0fd4b89075f58e09fc3efb3bc67386a1b22dc13187ebfccf99b7d"
+
+[update]
+[update.modrinth]
+mod-id = "MEDOXZFt"
+version = "MF25sUkH"

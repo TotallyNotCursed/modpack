@@ -1,0 +1,13 @@
+name = "The John Mod Reborn"
+filename = "John_Mod_Reborn_1.0.4_mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wbFL8rKi/versions/XWMyeYZd/John_Mod_Reborn_1.0.4_mc1.20.1.jar"
+hash-format = "sha512"
+hash = "a8b2d017a70d5a9b482f31aa6e695cf788167dabef443abd8b36d6865e42c0e9fd89cb926577d5832b56431c73c33ff41732b71f105e66a0097871a4e99f7a2a"
+
+[update]
+[update.modrinth]
+mod-id = "wbFL8rKi"
+version = "XWMyeYZd"

@@ -1,0 +1,13 @@
+name = "The End of Herobrine"
+filename = "endofherobrine-1.20.1-1.0.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KLNkjT7v/versions/wiIYbfpo/endofherobrine-1.20.1-1.0.8.2.jar"
+hash-format = "sha512"
+hash = "9a9ff249a2620b49473992db635c8eeec5629b8ee8fe0171388b3e7bd0018e5940ea7d9cdf25d0911019674e5ee0ac59bcc381cf62d5ca1a2addc3b116176dc4"
+
+[update]
+[update.modrinth]
+mod-id = "KLNkjT7v"
+version = "wiIYbfpo"

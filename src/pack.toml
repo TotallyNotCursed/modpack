@@ -1,0 +1,13 @@
+name = "Totally Not Cursed"
+author = "The Totally Not Cursed team and contributors"
+version = "0.2.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8679a74754eaf66492d19c43ad52d1995346939fc63988ea4e80d4bdb7d3efa7"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

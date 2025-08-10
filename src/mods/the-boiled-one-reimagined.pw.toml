@@ -1,0 +1,13 @@
+name = "The Boiled One: Reimagined"
+filename = "boiled_reimagined-1.0.12-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R66x3b6s/versions/ZQ9TvLGM/boiled_reimagined-1.0.12-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "71fafe449a91f0907974d8fca30f4c392db17ec48e45a8b15b65b6ea0a6e2cb24bb428e89fc9e122f506dc659cf0c4be5c23a6e4d55df51cf91d68cc8d8314c9"
+
+[update]
+[update.modrinth]
+mod-id = "R66x3b6s"
+version = "ZQ9TvLGM"

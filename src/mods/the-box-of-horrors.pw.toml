@@ -1,0 +1,13 @@
+name = "The Box Of Horrors"
+filename = "boh-0.0.8.6-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nt0wLqt5/versions/VetvaUWU/boh-0.0.8.6-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "9aa5c7afda0a2f60df6932178998800e476500acfa5090f9b45fd55ada00f6d81258713e95c19b0714e4c3af7a766272647e8aa028e2cd13f8c85a976bc0a732"
+
+[update]
+[update.modrinth]
+mod-id = "Nt0wLqt5"
+version = "VetvaUWU"

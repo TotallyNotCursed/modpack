@@ -1,0 +1,8 @@
+type = user_variables
+
+variable {
+  name = packver
+  value = 0.2.1
+  reset_on_launch = false
+}
+

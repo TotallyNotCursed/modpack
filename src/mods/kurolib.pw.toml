@@ -1,0 +1,13 @@
+name = "KuroLIB"
+filename = "kurolib-0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aNPQU8kd/versions/ZDM1eZma/kurolib-0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "56d836527fd7a63a870877ea0062ac279352f8ab564e49955d599f00b338726052fe53510ca840fe116ad42ed49299caa8fd0849d9566d882be9041d21121f01"
+
+[update]
+[update.modrinth]
+mod-id = "aNPQU8kd"
+version = "ZDM1eZma"

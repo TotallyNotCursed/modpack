@@ -1,0 +1,13 @@
+name = "Arthropod Phobia Expansions + Horror Bosses Spider Moth"
+filename = "ArPhEx-4.6.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k0RPP4IO/versions/gSJ59XOV/ArPhEx-4.6.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "8daf91794acb96872ceb323317db9729ba58eec1242bf17fb008baf4eb5a92b0ea6a09b641dd335aac0e8e9ef3927b1ce264287e9a676e9bd1182a9104cf8b63"
+
+[update]
+[update.modrinth]
+mod-id = "k0RPP4IO"
+version = "gSJ59XOV"

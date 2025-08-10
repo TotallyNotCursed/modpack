@@ -1,0 +1,26 @@
+{
+	"essential": {
+		"should_crash_on_startup": true,
+		"msg": "The <strong>Essential</strong> mod has been manually added, but it is <strong>completely incompatible</strong> with Totally Not Cursed and should not be used. Totally Not Cursed already includes <strong>e4mc</strong>, a reverse tunneling proxy that provides seamless LAN multiplayer. Just use <strong>Open to LAN</strong>—a public domain will appear for friends to join, no additional mods needed."
+	},
+	"essential-container": {
+		"should_crash_on_startup": true,
+		"msg": "The <strong>Essential</strong> mod has been manually added, but it is <strong>completely incompatible</strong> with Totally Not Cursed and should not be used. Totally Not Cursed already includes <strong>e4mc</strong>, a reverse tunneling proxy that provides seamless LAN multiplayer. Just use <strong>Open to LAN</strong>—a public domain will appear for friends to join, no additional mods needed."
+	},
+	"tlskincape": {
+		"should_crash_on_startup": true,
+		"msg": "You are using <strong>TLauncher</strong>, a launcher known to be infected with malware that can steal your passwords and monitor your computer activity. <strong>TLauncher</strong> also does not install modpacks correctly, which may result in missing files and breakages. Use of TLauncher is intentionally blocked in Totally Not Cursed. It is strongly recommended to delete all traces of TLauncher from your computer, perform an antivirus scan, and purchase Minecraft so you can use a safer launcher such as <a href=\"https://prismlauncher.org\">Prism Launcher</a>. <strong>If you bypass this block by any means, you will receive absolutely no support for any issues.</strong>"
+	},
+	"dynamiclights": {
+		"should_crash_on_startup": true,
+		"msg": "The <strong>Dynamic Lights</strong> mod has been manually added, but it is not needed. Totally Not Cursed already includes <strong>Sodium/Embeddium Dynamic Lights</strong>, which provides better performance and improved lighting. Please remove the extra Dynamic Lights mod."
+	},
+	"epicfight": {
+		"should_crash_on_startup": true,
+		"msg": "The <strong>Epic Fight</strong> mod has been manually added, but it is known to cause frequent crashes and severe incompatibility with other mods in Totally Not Cursed. For a stable combat overhaul, consider using the <strong>Better Combat</strong> mod instead."
+	},
+	"optifine": {
+		"should_crash_on_startup": true,
+		"msg": "The <strong>Optifine</strong> mod has been manually added, but it is no longer necessary for modern modpacks. Totally Not Cursed already includes <strong>Embeddium</strong> for performance, <strong>Oculus</strong> for shaders, and <strong>Just Zoom</strong> for the zoom feature. Please remove Optifine to avoid conflicts and enjoy a smoother experience."
+	}
+}
