@@ -432,12 +432,9 @@ element {
 
 element {
   copy_client_player = true
-  playername = Splack1
   auto_skin = false
   auto_cape = false
   slim = false
-  skin_source = Splack1
-  cape_source = Splack1
   scale = 30
   parrot = false
   parrot_left_shoulder = false
