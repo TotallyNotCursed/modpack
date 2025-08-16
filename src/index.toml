@@ -22,11 +22,11 @@ hash = "f1301333d84f0643ad9d65899d93a2544033398702a84d23ade24fa252e06fcc"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "265b3ea1c841de5ffd32f18cc0197feea402f3aaf67ff9eef39432de4a1c3b74"
+hash = "264e8b7a0901f51db39a7d13141b3aafab0e688bfb1f03a0cb23a58b80b47b8f"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "2496cb5a2e024e756193902121e1ef63398a4b75e1b355d8972b37e0709af4bd"
+hash = "5dd2c45d77b0a3247437af40571e71f98fdb9dcd1cf39c82addf1c28c07a71f9"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -54,7 +54,7 @@ hash = "53d19106ccc4c76512557ef3559a639801ced4ef864a78a07945407311649fac"
 
 [[files]]
 file = "config/fancymenu/assets/credits.md"
-hash = "734e3894bd126d1aade1d0c7047194b838232e898729368965e09efa8ad61f64"
+hash = "fc1e953236bbd7ff8b497758bf1b9d202c91d1c3ff557913940f17fbd8a64d24"
 
 [[files]]
 file = "config/fancymenu/assets/loading_screen/loader.gif"
@@ -126,7 +126,7 @@ hash = "04200e4b3d14c6eceb6bfc4d642dbd3c44ac85faef497346e71d26a531d38e0c"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen.txt"
-hash = "0a84e1be8416ccc25721841cf0a34b95d43e2aaf1b150c28ae6f40e83e50db66"
+hash = "a9a5bb7666ed7c293dfcedeb303df6efd1e7b5b9e06ef464c69e4d7901e44c2b"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -1020,6 +1020,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "7c687fd7ea4ec0349cd9eaef886f70e859a7f46b56811e1ada6df56cc6857726"
+metafile = true
+
+[[files]]
+file = "mods/tnc-extras.pw.toml"
+hash = "e1fa435d709806fa1777a54e5807f0db4e49a8d090925c8d1ea14a1849a2c58b"
 metafile = true
 
 [[files]]
