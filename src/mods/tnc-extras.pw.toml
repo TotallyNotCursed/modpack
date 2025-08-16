@@ -1,0 +1,8 @@
+name = "Totally Not Cursed Extras"
+filename = "tnc_extras-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TotallyNotCursed/extras/releases/download/0.2.1/tnc_extras-0.2.1.jar"
+hash-format = "sha256"
+hash = "6dd9855950368f91b6a260aa3ad6e0db38efd1b48f3dafd960d907a99a8e988a"
