@@ -1,7 +1,7 @@
-# 🧟 Totally Not Cursed
-
 > [!WARNING]
 > This modpack is still in active development and has not yet reached a stable release. Expect bugs, incomplete features, and potential world corruption. Always back up your worlds before playing!
+
+# 🧟 Totally Not Cursed
 
 The Totally Not Cursed modpack repository.
 
