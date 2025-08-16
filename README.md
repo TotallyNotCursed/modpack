@@ -1,35 +1,9 @@
-<p align="center">
-  <img alt="Logo" src="./src/config/fancymenu/assets/logo.png">
-</p>
-
-# Totally Not Cursed - The Ultimate Horror Survival Experience
+# 🧟 Totally Not Cursed
 
 > [!WARNING]
 > This modpack is still in active development and has not yet reached a stable release. Expect bugs, incomplete features, and potential world corruption. Always back up your worlds before playing!
 
-🎮 Welcome to a Minecraft experience that will fundamentally change how you perceive survival. This isn't just another horror modpack with jump scares—it's a revolutionary genre-blending experience that fuses psychological horror, tactical FPS mechanics, and survival gameplay into something entirely unprecedented in the Minecraft ecosystem.
-
-## 🧠 Psychological Horror & Sanity Management
-
-Your mind becomes your most vulnerable resource. The Sanity system introduces a mental health scale that, when neglected, leads to drastic consequences including fatal outcomes. As your sanity deteriorates, reality begins to blur—phantom sounds echo through caves, shadows move when they shouldn't, and the line between what's real and what's madness becomes impossibly thin. Every decision affects your mental state, from the food you eat to the company you keep.
-
-## 👹 Intelligent Stalking Entities
-
-Stalking entities like The Man From The Fog actively hunt you with complex behaviors—climbing structures, breaking blocks, and ambushing players at unexpected moments. These aren't simple monsters; they're persistent predators that adapt to your strategies. The Cave Dweller lurks in underground tunnels, while Eyes in the Darkness watch from the shadows. Each creature has its own hunting patterns, forcing you to constantly adapt your survival tactics.
-
-## 🎯 Tactical FPS Combat System
-
-This isn't casual gunplay—it's hardcore tactical combat borrowed from modern FPS games. Like in Escape from Tarkov, you must manually inspect your weapons to check ammunition levels; there's no HUD counter to hold your hand. The advanced ping system lets you mark locations and communicate tactical information, turning multiplayer sessions into coordinated military operations. Every shot matters, every reload could be your last, and proper weapon maintenance becomes a life-or-death skill.
-
-## 🌫️ Atmospheric World Generation
-
-The world itself becomes your enemy. Amplified terrain generation creates imposing landscapes, while mods like The Graveyard and Deep Dark: Regrowth populate the world with ominous structures and corrupted biomes. Enhanced audio design with Sound Physics and AmbientSounds creates an oppressive atmosphere where every footstep, every distant sound, could signal approaching danger.
-
-## ⚡ The Perfect Storm of Horror
-
-What makes Totally Not Cursed unique is how these genre-blending systems interact. Your deteriorating sanity affects your perception of tactical situations. Stalking entities exploit moments when you're mentally vulnerable. The hardcore FPS mechanics demand precision when supernatural threats close in. This isn't just horror, FPS, or survival—it's a complete fusion of genres that creates something entirely new in the Minecraft landscape.
-
-⚠️ **Warning**: This modpack is designed for players who want their survival experience to be genuinely challenging and psychologically intense. It's not for casual play—it's for those who want to test their limits in a world where nothing is safe, nothing is certain, and survival depends on both your tactical skills and mental fortitude.
+The Totally Not Cursed modpack repository.
 
 ## 🚀 Installation
 
@@ -58,14 +32,6 @@ This modpack and all its contributions may be relicensed under fully open licens
 - **Media assets:** may transition to [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
 
 Such relicensing will have **retroactive effect**—all past, present, and future revisions will be covered. By contributing, you acknowledge and accept that your contributions (regardless of when made) may be included in this relicensing, and no further consent will be needed.
-
-### Exceptions for Content Creators
-
-Content creators are free to use the modpack logo for their video thumbnails or other promotional materials and must provide proper attribution when creating content about the modpack. An example of acceptable attribution is:
-
-```
-"Totally Not Cursed" modpack by the Totally Not Cursed team and contributors.
-```
 
 ## 🧑‍💻 Credits for Mods, Resource Packs, Shaderpacks, and Other Content
 
