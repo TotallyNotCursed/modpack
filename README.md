@@ -35,7 +35,7 @@ What makes Totally Not Cursed unique is how these genre-blending systems interac
 
 Our modpack is crafted in the **[packwiz](https://github.com/packwiz)** format for seamless mod management.
 
-📖 **[Complete Installation Guide](./INSTALLATION.md)** - Detailed instructions for all launchers including system requirements and troubleshooting.
+📖 **[Complete Installation Guide](./docs/INSTALLATION.md)** - Detailed instructions for all launchers including system requirements and troubleshooting.
 
 ## ✨ Known Issues & 🛠️ TODOs
 
