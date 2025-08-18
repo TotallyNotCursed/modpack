@@ -7,7 +7,7 @@ This guide explains how to install Totally Not Cursed for both client and server
 - [System Requirements](#system-requirements)
 - [General Preparation](#general-preparation)
 - [Client Installation](#client-installation)
-  - [Loading Keybinding Preset (Important!)](#loading-keybinding-preset)
+  - [Essential Setup (Keybindings & Shaders)](#essential-setup)
   - [Method 1: Pre-Launch Command (Recommended)](#method-1-pre-launch-command)
   - [Method 2: Manual Method](#method-2-manual-method)
 - [Server Installation](#server-installation)
@@ -62,17 +62,19 @@ This guide explains how to install Totally Not Cursed for both client and server
 
 ## 🖥️ Client Installation
 
-<a name="loading-keybinding-preset"></a>
+<a name="essential-setup"></a>
 
-### 🔑 Loading Keybinding Preset (Important!)
+### ✨ Essential Setup (Keybindings & Shaders)
 
-After installing the modpack for the first time or after any update, load the correct keybinding preset to avoid conflicts:
+After installing the modpack for the first time or after any update, load the correct keybinding preset and consider shader options to avoid conflicts and get the intended experience:
 
 1. Launch Minecraft and go to **Options** → **Controls** → **Key Binds**
 2. At the bottom center, click **Key Preset**
 3. Select the preset named **Totally_Not_Cursed**, then click **Load**
 
 **Important**: Repeat this step after every modpack update to ensure you have the latest keybinding configuration. If you experience keybinding conflicts after loading the preset, please report it on our GitHub issues page.
+
+This modpack includes several shader packs ranging from performance-oriented (lightweight, FPS-friendly) to horror-themed (heavy on visual effects and atmosphere). If your system supports shaders, it is recommended to enable them for a more immersive experience.
 
 <a name="method-1-pre-launch-command"></a>
 
