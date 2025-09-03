@@ -295,7 +295,7 @@ element {
   [loading_requirement_container_meta:1ee977fd-1e14-4a4e-9810-743ab99cbbc9-1735322585006] = [groups:update_notification;][instances:]
   [loading_requirement_group:update_notification] = [group_mode:and]
   [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][group:update_notification][req_id:a23a88eb-3ced-44cb-af9c-e69d3fc1e998-1751994336943] = ["mode":"equals","text":"{"placeholder":"getvariable","values":{"name":"packver"}}","compare_with":"{"placeholder":"webtext","values":{"link":"https://raw.githubusercontent.com/TotallyNotCursed/modpack/refs/heads/main/src/packver.txt"}}"]$
-  [loading_requirement:is_internet_connection_available][requirement_mode:if][group:update_notification][req_id:d5c78128-67dd-48f7-bb99-87327aa7c2fd-1751994413168] = 
+  [loading_requirement:is_internet_connection_available][requirement_mode:if][group:update_notification][req_id:d5c78128-67dd-48f7-bb99-87327aa7c2fd-1751994413168] =
   enable_parallax = false
   parallax_intensity_v2 = 0.5
   invert_parallax = false

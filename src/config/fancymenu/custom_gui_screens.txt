@@ -5,7 +5,7 @@ overridden_screens {
 
 custom_gui {
   identifier = credits
-  title = 
+  title =
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true
@@ -14,7 +14,7 @@ custom_gui {
 
 custom_gui {
   identifier = changelog
-  title = 
+  title =
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true

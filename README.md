@@ -238,7 +238,7 @@ For resource packs, shaderpacks, and other content without metadata, please repo
 
 ### Assets
 
-**Wumpus Pixel Art**  
-[![Wumpus Pixel Art](./src/config/fancymenu/assets/title_screen/discord_hover.gif)](https://www.reddit.com/r/discordapp/comments/krerqe/v3_of_my_wumpus_pixel_art_ideas_and_suggestions/)  
-Created by [KyleCraftMCYT](https://www.reddit.com/user/KyleCraftMCYT/)  
+**Wumpus Pixel Art**
+[![Wumpus Pixel Art](./src/config/fancymenu/assets/title_screen/discord_hover.gif)](https://www.reddit.com/r/discordapp/comments/krerqe/v3_of_my_wumpus_pixel_art_ideas_and_suggestions/)
+Created by [KyleCraftMCYT](https://www.reddit.com/user/KyleCraftMCYT/)
 [View original Reddit post](https://www.reddit.com/r/discordapp/comments/krerqe/v3_of_my_wumpus_pixel_art_ideas_and_suggestions/)
