@@ -1,13 +1,13 @@
 name = "Ping Wheel"
-filename = "Ping-Wheel-1.10.3-forge-1.20.1.jar"
+filename = "Ping-Wheel-1.11.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/jnzl9ziX/Ping-Wheel-1.10.3-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/usgkP0fO/Ping-Wheel-1.11.0-forge-1.20.1.jar"
 hash-format = "sha512"
-hash = "f1fcad4eae39dc6508578b29c067663d44d851fcdc57e53f78ed22262e578abfd9d27f84517d21a8aca7c27956b19402cb9ef0e67441c7e55d656ee92c3241dc"
+hash = "da0c23223a1ef05efd70fd8874c0251f2e5b33f16a27faf3cea075f56aa9df90b58eaa296f682dc83e34ba4439c2dfaaaec851cf66812bcbe4ffc1d6d2cee82d"
 
 [update]
 [update.modrinth]
 mod-id = "QQXAdCzh"
-version = "jnzl9ziX"
+version = "usgkP0fO"

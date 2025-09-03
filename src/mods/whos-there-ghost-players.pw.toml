@@ -1,13 +1,13 @@
 name = "Who's There ?: Ghost Players"
-filename = "whos_there-1.2-forge-1.20.1.jar"
+filename = "whos_there-1.3-forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rZZqnxDo/versions/rf6TqFVl/whos_there-1.2-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/rZZqnxDo/versions/AmKc4pQW/whos_there-1.3-forge-1.20.1.jar"
 hash-format = "sha512"
-hash = "b280d890e75f19053b97486231b6741ea8ae6ce2373692ed26016f0518636598576446110663cbf45ffb5989a4ddf0ff7dcc8756c3655f50cf57d40e31608ae2"
+hash = "f71855e42e3372a18fe8cdce17db7e50ace26108f4aeb792a196bef54a1516a67349dbaeb7f9f556242e0ca966744be8b29e13a7c0e145a76cd8c804043b95c3"
 
 [update]
 [update.modrinth]
 mod-id = "rZZqnxDo"
-version = "rf6TqFVl"
+version = "AmKc4pQW"

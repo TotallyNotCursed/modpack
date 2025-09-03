@@ -1,13 +1,13 @@
 name = "KeyPreset"
-filename = "KeyPreset-1.0.3.jar"
+filename = "KeyPreset-1.0.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dR3NB4to/versions/NCkCvlTn/KeyPreset-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/dR3NB4to/versions/uhOeojom/KeyPreset-1.0.5.jar"
 hash-format = "sha512"
-hash = "deb1a4dcffb049590528cc76bc550ffc654834706fbaf9dfa49916ed4d51df3762d58bd80f10fd9a5d2aa4a34f7af69877f55aa183d50b613a303993b599675b"
+hash = "603cb0aa5173e35e4254660bb40336b655e40775617c3e6c7e14f4882db0efa1513cda48abb606a690eb0b464544e1de6aedbc382f02ff029ed4f6f651466677"
 
 [update]
 [update.modrinth]
 mod-id = "dR3NB4to"
-version = "NCkCvlTn"
+version = "uhOeojom"
