@@ -49,10 +49,10 @@
     "modId": "architectury",
     "version": "9.2.14"
   },
-  "ArPhEx-4.6.1-forge-1.20.1.jar": {
-    "jarName": "ArPhEx-4.6.1-forge-1.20.1.jar",
+  "ArPhEx-4.7.1b-forge-1.20.1.jar": {
+    "jarName": "ArPhEx-4.7.1b-forge-1.20.1.jar",
     "modId": "arphex",
-    "version": "4.6.1"
+    "version": "4.7.1"
   },
   "BadOptimizations-2.3.0-1.20.1.jar": {
     "jarName": "BadOptimizations-2.3.0-1.20.1.jar",
@@ -124,10 +124,10 @@
     "modId": "boiled_reimagined",
     "version": "1.0.12"
   },
-  "born_in_chaos_[Forge]1.20.1_1.7.jar": {
-    "jarName": "born_in_chaos_[Forge]1.20.1_1.7.jar",
+  "born_in_chaos_[Forge]1.20.1_1.7.2.jar": {
+    "jarName": "born_in_chaos_[Forge]1.20.1_1.7.2.jar",
     "modId": "born_in_chaos_v1",
-    "version": "1.7"
+    "version": "1.7.2"
   },
   "cameraoverhaul-1.1-1.20.4.jar": {
     "jarName": "cameraoverhaul-1.1-1.20.4.jar",
@@ -287,15 +287,15 @@
     "modId": "enhancedvisuals",
     "version": "1.8.2"
   },
-  "entity_model_features_forge_1.20.1-2.4.1.jar": {
-    "jarName": "entity_model_features_forge_1.20.1-2.4.1.jar",
+  "entity_model_features_1.20.1-forge-3.0.1.jar": {
+    "jarName": "entity_model_features_1.20.1-forge-3.0.1.jar",
     "modId": "entity_model_features",
-    "version": "2.4.1"
+    "version": "3.0.1"
   },
-  "entity_texture_features_forge_1.20.1-6.2.9.jar": {
-    "jarName": "entity_texture_features_forge_1.20.1-6.2.9.jar",
+  "entity_texture_features_1.20.1-forge-7.0.2.jar": {
+    "jarName": "entity_texture_features_1.20.1-forge-7.0.2.jar",
     "modId": "entity_texture_features",
-    "version": "6.2.9"
+    "version": "7.0.2"
   },
   "entityculling-forge-1.8.2-mc1.20.1.jar": {
     "jarName": "entityculling-forge-1.8.2-mc1.20.1.jar",
@@ -327,15 +327,15 @@
     "modId": "eyesinthedarkness",
     "version": "1.3.10"
   },
-  "fabric-api-0.92.2+1.11.12+1.20.1.jar": {
-    "jarName": "fabric-api-0.92.2+1.11.12+1.20.1.jar",
+  "fabric-api-0.92.6+1.11.14+1.20.1.jar": {
+    "jarName": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
     "modId": "fabric_api",
-    "version": "0.92.2+1.11.12+1.20.1"
+    "version": "0.92.6+1.11.14+1.20.1"
   },
-  "fancymenu_forge_3.6.4_MC_1.20.1.jar": {
-    "jarName": "fancymenu_forge_3.6.4_MC_1.20.1.jar",
+  "fancymenu_forge_3.7.0_MC_1.20.1.jar": {
+    "jarName": "fancymenu_forge_3.7.0_MC_1.20.1.jar",
     "modId": "fancymenu",
-    "version": "3.6.4"
+    "version": "3.7.0"
   },
   "fast-ip-ping-v1.0.7-mc1.20.4-forge.jar": {
     "jarName": "fast-ip-ping-v1.0.7-mc1.20.4-forge.jar",
@@ -367,40 +367,40 @@
     "modId": "watching",
     "version": "1.9.2"
   },
-  "fzzy_config-0.7.1+1.20.1+forge.jar": {
-    "jarName": "fzzy_config-0.7.1+1.20.1+forge.jar",
+  "fzzy_config-0.7.2+1.20.1+forge.jar": {
+    "jarName": "fzzy_config-0.7.2+1.20.1+forge.jar",
     "modId": "fzzy_config",
-    "version": "0.7.1+1.20.1+forge"
+    "version": "0.7.2+1.20.1+forge"
   },
   "gamemenuremovegfarb-forge-mc1.19.4-2.1.2.jar": {
     "jarName": "gamemenuremovegfarb-forge-mc1.19.4-2.1.2.jar",
     "modId": "gamemenuremovegfarb",
     "version": "2.1.2"
   },
-  "geckolib-forge-1.20.1-4.7.3.jar": {
-    "jarName": "geckolib-forge-1.20.1-4.7.3.jar",
+  "geckolib-forge-1.20.1-4.7.4.jar": {
+    "jarName": "geckolib-forge-1.20.1-4.7.4.jar",
     "modId": "geckolib",
-    "version": "4.7.3"
+    "version": "4.7.4"
   },
-  "Geophilic v3.4.2 f15-80.mod.jar": {
-    "jarName": "Geophilic v3.4.2 f15-80.mod.jar",
+  "Geophilic v3.4.3 f15-80.mod.jar": {
+    "jarName": "Geophilic v3.4.3 f15-80.mod.jar",
     "modId": "geophilic",
-    "version": "3.4.2"
+    "version": "3.4.3"
   },
   "GlitchCore-forge-1.20.1-0.0.1.1.jar": {
     "jarName": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
     "modId": "glitchcore",
     "version": "0.0.1.1"
   },
-  "gravestone-forge-1.20.1-1.0.32.jar": {
-    "jarName": "gravestone-forge-1.20.1-1.0.32.jar",
+  "gravestone-forge-1.20.1-1.0.33.jar": {
+    "jarName": "gravestone-forge-1.20.1-1.0.33.jar",
     "modId": "gravestone",
-    "version": "1.20.1-1.0.32"
+    "version": "1.20.1-1.0.33"
   },
-  "horror_element_mod-1.6.1-forge-1.20.1.jar": {
-    "jarName": "horror_element_mod-1.6.1-forge-1.20.1.jar",
+  "horror_element_mod-1.6.2-forge-1.20.1.jar": {
+    "jarName": "horror_element_mod-1.6.2-forge-1.20.1.jar",
     "modId": "horror_element_mod",
-    "version": "1.6.1"
+    "version": "1.6.2"
   },
   "Iceberg-1.20.1-forge-1.1.25.jar": {
     "jarName": "Iceberg-1.20.1-forge-1.1.25.jar",
@@ -427,10 +427,10 @@
     "modId": "itemphysiclite",
     "version": "1.6.6"
   },
-  "Jade-1.20.1-Forge-11.13.1.jar": {
-    "jarName": "Jade-1.20.1-Forge-11.13.1.jar",
+  "Jade-1.20.1-Forge-11.13.2.jar": {
+    "jarName": "Jade-1.20.1-Forge-11.13.2.jar",
     "modId": "jade",
-    "version": "11.13.1+forge"
+    "version": "11.13.2+forge"
   },
   "John_Mod_Reborn_1.0.4_mc1.20.1.jar": {
     "jarName": "John_Mod_Reborn_1.0.4_mc1.20.1.jar",
@@ -442,10 +442,10 @@
     "modId": "justzoom",
     "version": "2.1.1"
   },
-  "KeyPreset-1.0.3.jar": {
-    "jarName": "KeyPreset-1.0.3.jar",
+  "KeyPreset-1.0.5.jar": {
+    "jarName": "KeyPreset-1.0.5.jar",
     "modId": "keypreset",
-    "version": "1.0.3"
+    "version": "1.0.5"
   },
   "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar": {
     "jarName": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
@@ -480,10 +480,10 @@
     "modId": "libx",
     "version": "1.20.1-5.0.14"
   },
-  "Lunar-forge-1.20.1-0.2.3.jar": {
-    "jarName": "Lunar-forge-1.20.1-0.2.3.jar",
+  "Lunar-forge-1.20.1-0.2.4.jar": {
+    "jarName": "Lunar-forge-1.20.1-0.2.4.jar",
     "modId": "lunar",
-    "version": "0.2.3"
+    "version": "0.2.4"
   },
   "mcw-bridges-3.1.0-mc1.20.1forge.jar": {
     "jarName": "mcw-bridges-3.1.0-mc1.20.1forge.jar",
@@ -515,10 +515,10 @@
     "modId": "modelfix",
     "version": "1.15"
   },
-  "modernfix-forge-5.24.3+mc1.20.1.jar": {
-    "jarName": "modernfix-forge-5.24.3+mc1.20.1.jar",
+  "modernfix-forge-5.24.4+mc1.20.1.jar": {
+    "jarName": "modernfix-forge-5.24.4+mc1.20.1.jar",
     "modId": "modernfix",
-    "version": "5.24.3+mc1.20.1"
+    "version": "5.24.4+mc1.20.1"
   },
   "MouseTweaks-forge-mc1.20.1-2.25.1.jar": {
     "jarName": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
@@ -545,10 +545,10 @@
     "modId": "nerb",
     "version": "0.4.1"
   },
-  "notenoughanimations-forge-1.10.1-mc1.20.1.jar": {
-    "jarName": "notenoughanimations-forge-1.10.1-mc1.20.1.jar",
+  "notenoughanimations-forge-1.10.2-mc1.20.1.jar": {
+    "jarName": "notenoughanimations-forge-1.10.2-mc1.20.1.jar",
     "modId": "notenoughanimations",
-    "version": "1.10.1"
+    "version": "1.10.2"
   },
   "notenoughcrashes-4.4.9+1.20.1-forge.jar": {
     "jarName": "notenoughcrashes-4.4.9+1.20.1-forge.jar",
@@ -580,10 +580,10 @@
     "modId": "omegamute",
     "version": "4.3"
   },
-  "packetfixer-3.1.4-1.18-1.20.4-merged.jar": {
-    "jarName": "packetfixer-3.1.4-1.18-1.20.4-merged.jar",
+  "packetfixer-3.3.0-1.18-1.20.4-merged.jar": {
+    "jarName": "packetfixer-3.3.0-1.18-1.20.4-merged.jar",
     "modId": "packetfixer",
-    "version": "3.1.4"
+    "version": "3.3.0"
   },
   "palegardenbackport-forge-2.0.3+1.20.1.jar": {
     "jarName": "palegardenbackport-forge-2.0.3+1.20.1.jar",
@@ -595,15 +595,15 @@
     "modId": "particle_core",
     "version": "0.2.6+1.20.1+forge"
   },
-  "particular-1.20.1-Forge-1.2.4.jar": {
-    "jarName": "particular-1.20.1-Forge-1.2.4.jar",
+  "particular-1.20.1-Forge-1.2.7.jar": {
+    "jarName": "particular-1.20.1-Forge-1.2.7.jar",
     "modId": "particular",
-    "version": "1.2.4"
+    "version": "1.2.7"
   },
-  "Ping-Wheel-1.10.3-forge-1.20.1.jar": {
-    "jarName": "Ping-Wheel-1.10.3-forge-1.20.1.jar",
+  "Ping-Wheel-1.11.0-forge-1.20.1.jar": {
+    "jarName": "Ping-Wheel-1.11.0-forge-1.20.1.jar",
     "modId": "pingwheel",
-    "version": "1.10.3"
+    "version": "1.11.0"
   },
   "Placebo-1.20.1-8.6.3.jar": {
     "jarName": "Placebo-1.20.1-8.6.3.jar",
@@ -680,15 +680,15 @@
     "modId": "simplerpc",
     "version": "4.0.4"
   },
-  "skinlayers3d-forge-1.8.2-mc1.20.1.jar": {
-    "jarName": "skinlayers3d-forge-1.8.2-mc1.20.1.jar",
+  "skinlayers3d-forge-1.9.0-mc1.20.1.jar": {
+    "jarName": "skinlayers3d-forge-1.9.0-mc1.20.1.jar",
     "modId": "skinlayers3d",
-    "version": "1.8.2"
+    "version": "1.9.0"
   },
-  "skinrestorer-2.4.2+1.20-forge.jar": {
-    "jarName": "skinrestorer-2.4.2+1.20-forge.jar",
+  "skinrestorer-2.4.3+1.20-forge.jar": {
+    "jarName": "skinrestorer-2.4.3+1.20-forge.jar",
     "modId": "skinrestorer",
-    "version": "2.4.2+1.20-forge"
+    "version": "2.4.3+1.20-forge"
   },
   "sodiumdynamiclights-forge-1.0.10-1.20.1.jar": {
     "jarName": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
@@ -760,10 +760,10 @@
     "modId": "themimic_er",
     "version": "1.7.0"
   },
-  "thestarvedstalker_1-20-1.jar": {
-    "jarName": "thestarvedstalker_1-20-1.jar",
+  "thestarvedstalker-1.6.0-1.20.1.jar": {
+    "jarName": "thestarvedstalker-1.6.0-1.20.1.jar",
     "modId": "the_starved_stalker",
-    "version": "1.0.0"
+    "version": "2.0"
   },
   "ThisRocks-1.20.1-1.5.1.jar": {
     "jarName": "ThisRocks-1.20.1-1.5.1.jar",
@@ -790,10 +790,10 @@
     "modId": "travelanchors",
     "version": "1.20.1-5.0.0"
   },
-  "travelersbackpack-forge-1.20.1-9.1.39.jar": {
-    "jarName": "travelersbackpack-forge-1.20.1-9.1.39.jar",
+  "travelersbackpack-forge-1.20.1-9.1.40.jar": {
+    "jarName": "travelersbackpack-forge-1.20.1-9.1.40.jar",
     "modId": "travelersbackpack",
-    "version": "9.1.39"
+    "version": "9.1.40"
   },
   "TravelersTitles-1.20-Forge-4.0.2.jar": {
     "jarName": "TravelersTitles-1.20-Forge-4.0.2.jar",
@@ -815,15 +815,15 @@
     "modId": "watut",
     "version": "1.20.1-1.2.3"
   },
-  "waveycapes-forge-1.6.1.1-mc1.20.1.jar": {
-    "jarName": "waveycapes-forge-1.6.1.1-mc1.20.1.jar",
+  "waveycapes-forge-1.6.2-mc1.20.1.jar": {
+    "jarName": "waveycapes-forge-1.6.2-mc1.20.1.jar",
     "modId": "waveycapes",
-    "version": "1.6.1.1"
+    "version": "1.6.2"
   },
-  "whos_there-1.2-forge-1.20.1.jar": {
-    "jarName": "whos_there-1.2-forge-1.20.1.jar",
+  "whos_there-1.3-forge-1.20.1.jar": {
+    "jarName": "whos_there-1.3-forge-1.20.1.jar",
     "modId": "whos_there",
-    "version": "1.2"
+    "version": "1.3"
   },
   "Xaeros_Minimap_FP24.2.0_Forge_1.20.jar": {
     "jarName": "Xaeros_Minimap_FP24.2.0_Forge_1.20.jar",
