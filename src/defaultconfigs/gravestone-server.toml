@@ -15,4 +15,3 @@ friendly_ghost = true
 sneak_pickup = false
 #If this is set to true you get your items sorted back into your inventory by breaking the grave
 break_pickup = true
-
