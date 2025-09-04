@@ -239,7 +239,7 @@ element {
 
 element {
   interactable = true
-  source = ^^^%n%[{"placeholder":"local","values":{"key":"tnc_update_notification"}} ({"placeholder":"webtext","values":{"link":"https://raw.githubusercontent.com/TotallyNotCursed/modpack/refs/heads/main/src/packver.txt"}}](https://github.com/TotallyNotCursed/modpack/releases))%n%^^^
+  source = ^^^%n%[{"placeholder":"local","values":{"key":"tnc_update_notification"}} {"placeholder":"webtext","values":{"link":"https://raw.githubusercontent.com/TotallyNotCursed/modpack/refs/heads/main/src/packver.txt"}}](https://github.com/TotallyNotCursed/modpack/releases/latest)%n%^^^
   source_mode = direct
   shadow = true
   scale = 1.0
