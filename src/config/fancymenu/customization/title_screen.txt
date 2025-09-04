@@ -308,7 +308,7 @@ element {
 
 element {
   interactable = true
-  source = %#FF0000%Totally Not Cursed%#% %#AD0AFD%0.2.1%#%%n%DOES NOT REPRESENT FINAL QUALITY
+  source = %#FF0000%Totally Not Cursed%#% %#AD0AFD%0.2.2%#%%n%DOES NOT REPRESENT FINAL QUALITY
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -374,7 +374,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 4de69d63-07fe-482f-80ec-2f01ea0bee5e-1720950460301
-  [executable_action_instance:a8668111-824b-4fc1-8ea8-d46a9b60154a-1720950479414][action_type:copytoclipboard] = Totally Not Cursed 0.2.1 | Minecraft {"placeholder":"mcversion"} with {"placeholder":"loadername"} {"placeholder":"loaderver"} | JVM: {"placeholder":"jvmname"} {"placeholder":"javaver"} | Allocated RAM: {"placeholder":"maxram"} MB | Loaded Mods: {"placeholder":"loadedmods"} | Music Volume: {"placeholder":"minecraft_option_value","values":{"name":"soundCategory_music"}} | OS: {"placeholder":"osname"} | CPU: {"placeholder":"cpuinfo"} | GPU: {"placeholder":"gpuinfo"}
+  [executable_action_instance:a8668111-824b-4fc1-8ea8-d46a9b60154a-1720950479414][action_type:copytoclipboard] = Totally Not Cursed 0.2.2 | Minecraft {"placeholder":"mcversion"} with {"placeholder":"loadername"} {"placeholder":"loaderver"} | JVM: {"placeholder":"jvmname"} {"placeholder":"javaver"} | Allocated RAM: {"placeholder":"maxram"} MB | Loaded Mods: {"placeholder":"loadedmods"} | Music Volume: {"placeholder":"minecraft_option_value","values":{"name":"soundCategory_music"}} | OS: {"placeholder":"osname"} | CPU: {"placeholder":"cpuinfo"} | GPU: {"placeholder":"gpuinfo"}
   [executable_block:4de69d63-07fe-482f-80ec-2f01ea0bee5e-1720950460301][type:generic] = [executables:a8668111-824b-4fc1-8ea8-d46a9b60154a-1720950479414;]
   restartbackgroundanimations = true
   nine_slice_custom_background = false
