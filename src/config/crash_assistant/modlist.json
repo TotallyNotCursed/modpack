@@ -775,10 +775,10 @@
         "modId": "tia",
         "version": "1.20-1.1"
     },
-    "tnc_extras-0.2.1.jar": {
-        "jarName": "tnc_extras-0.2.1.jar",
+    "tnc_extras-0.2.2.jar": {
+        "jarName": "tnc_extras-0.2.2.jar",
         "modId": "tnc_extras",
-        "version": "0.2.1"
+        "version": "0.2.2"
     },
     "ToastControl-1.20.1-8.0.3.jar": {
         "jarName": "ToastControl-1.20.1-8.0.3.jar",

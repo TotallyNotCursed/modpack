@@ -1,8 +1,8 @@
 name = "Totally Not Cursed Extras"
-filename = "tnc_extras-0.2.1.jar"
+filename = "tnc_extras-0.2.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/TotallyNotCursed/extras/releases/download/0.2.1/tnc_extras-0.2.1.jar"
+url = "https://github.com/TotallyNotCursed/extras/releases/download/0.2.2/tnc_extras-0.2.2.jar"
 hash-format = "sha256"
-hash = "6dd9855950368f91b6a260aa3ad6e0db38efd1b48f3dafd960d907a99a8e988a"
+hash = "ebca15671aa2456f440b077d6c0e1709e9abf87145d9e104ea8b0f7f98b85128"
