@@ -1,3 +1,3 @@
 {
-    "terminal.integrated.cwd": "${workspaceFolder}/src"
+  "terminal.integrated.cwd": "${workspaceFolder}/src"
 }
