@@ -1,2 +1,1 @@
-src/kubejs/data/minecraft/recipes/
-src/kubejs/data/tnc/recipes/
+/src/kubejs/data/*/recipes/
