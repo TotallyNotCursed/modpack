@@ -1,4 +1,4 @@
-name: PR Enforcement (Develop Branch)
+name: PR Enforcement
 
 on:
   pull_request:
@@ -8,9 +8,10 @@ permissions:
 
 jobs:
   enforce-develop-branch:
+    name: Enforce Develop Branch Target
     runs-on: ubuntu-latest
     steps:
-      - name: Ensure PR targets 'develop' branch
+      - name: Ensure PR targets develop branch
         run: |
           if [ "${{ github.base_ref }}" != "develop" ]; then
             echo "Pull requests must target the 'develop' branch."
