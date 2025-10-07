@@ -85,7 +85,7 @@ For launchers that support pre-launch commands (Prism Launcher, ATLauncher, etc.
 1. Enable pre-launch commands in your launcher's instance settings
 2. Add the following command to the pre-launch field:
    ```bash
-   "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/TotallyNotCursed/modpack/refs/heads/main/src/pack.toml
+   "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/TotallyNotCursed/modpack/main/src/pack.toml
    ```
 
 **Note**: Replace `$INST_JAVA` with your launcher's Java variable syntax if different.
@@ -101,7 +101,7 @@ For environments without pre-launch command support:
 1. Open a terminal/command prompt in the folder containing `packwiz-installer-bootstrap.jar`
 2. Run the following command:
    ```bash
-   java -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/TotallyNotCursed/modpack/refs/heads/main/src/pack.toml
+   java -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/TotallyNotCursed/modpack/main/src/pack.toml
    ```
 
 **Important Limitations**:
@@ -120,7 +120,7 @@ To set up a dedicated server:
 2. Open a terminal in the folder containing the bootstrap jar
 3. Run this command:
    ```bash
-   java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/TotallyNotCursed/modpack/refs/heads/main/src/pack.toml
+   java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/TotallyNotCursed/modpack/main/src/pack.toml
    ```
 
 This will download and install server-compatible mods only.
